@@ -1,0 +1,13 @@
+{
+  "orders": {
+    "ORD-10023": {"status": "shipped", "item": "hardware security key", "eta": "2026-01-18"},
+    "ORD-10057": {"status": "processing", "item": "hardware security key x3", "eta": "2026-01-22"},
+    "ORD-10088": {"status": "delivered", "item": "onboarding workshop voucher", "eta": "2026-01-09"},
+    "ORD-10102": {"status": "cancelled", "item": "annual Team plan upgrade", "eta": null}
+  },
+  "plans": {
+    "free": {"price_usd_month": 0, "storage": "5 GB"},
+    "pro": {"price_usd_month": 12, "storage": "100 GB"},
+    "team": {"price_usd_month": 49, "storage": "1 TB"}
+  }
+}
