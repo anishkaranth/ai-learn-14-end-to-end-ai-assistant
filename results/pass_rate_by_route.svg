@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="460.8pt" height="259.2pt" viewBox="0 0 460.8 259.2" version="1.1">
+<defs>
+<style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+</defs>
+<path d="M 0 259.2 L 460.8 259.2 L 460.8 0 L 0 0 z" style="fill: #ffffff"/>
+<path d="M 48 177.3 L 450 177.3 L 450 26.2 L 48 26.2 z" style="fill: #ffffff"/>
+<path d="M 66.2 177.3 L 91.4 177.3 L 91.4 33.4 L 66.2 33.4 z" style="fill: #126782"/>
+<path d="M 129.3 177.3 L 154.5 177.3 L 154.5 33.4 L 129.3 33.4 z" style="fill: #126782"/>
+<path d="M 192.3 177.3 L 217.5 177.3 L 217.5 33.4 L 192.3 33.4 z" style="fill: #126782"/>
+<path d="M 255.3 177.3 L 280.5 177.3 L 280.5 33.4 L 255.3 33.4 z" style="fill: #126782"/>
+<path d="M 318.3 177.3 L 343.5 177.3 L 343.5 33.4 L 318.3 33.4 z" style="fill: #126782"/>
+<path d="M 381.3 177.3 L 406.5 177.3 L 406.5 56.4 L 381.3 56.4 z" style="fill: #126782"/>
+<path d="M 91.4 177.3 L 116.6 177.3 L 116.6 33.4 L 91.4 33.4 z" style="fill: #e9c46a"/>
+<path d="M 154.5 177.3 L 179.7 177.3 L 179.7 33.4 L 154.5 33.4 z" style="fill: #e9c46a"/>
+<path d="M 217.5 177.3 L 242.7 177.3 L 242.7 177.3 L 217.5 177.3 z" style="fill: #e9c46a"/>
+<path d="M 280.5 177.3 L 305.7 177.3 L 305.7 177.3 L 280.5 177.3 z" style="fill: #e9c46a"/>
+<path d="M 343.5 177.3 L 368.7 177.3 L 368.7 177.3 L 343.5 177.3 z" style="fill: #e9c46a"/>
+<path d="M 406.5 177.3 L 431.7 177.3 L 431.7 56.4 L 406.5 56.4 z" style="fill: #e9c46a"/>
+<defs>
+<path id="mc351f76e85" d="M 0 0 L 0 3.5" style="stroke: #000000; stroke-width: 0.8"/>
+</defs>
+<use xlink:href="#mc351f76e85" x="91.4" y="177.3" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 8px; font-family: sans-serif" transform="translate(76.7 191.2)">abstain</text>
+<text style="font-size: 8px; font-family: sans-serif" transform="translate(79.9 200.8)">(n=3)</text>
+<use xlink:href="#mc351f76e85" x="154.5" y="177.3" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 8px; font-family: sans-serif" transform="translate(139 191.2)">blocked</text>
+<text style="font-size: 8px; font-family: sans-serif" transform="translate(142.9 200.8)">(n=4)</text>
+<use xlink:href="#mc351f76e85" x="217.5" y="177.3" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 8px; font-family: sans-serif" transform="translate(197.8 191.2)">calculator</text>
+<text style="font-size: 8px; font-family: sans-serif" transform="translate(205.9 200.8)">(n=4)</text>
+<use xlink:href="#mc351f76e85" x="280.5" y="177.3" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 8px; font-family: sans-serif" transform="translate(271.5 191.2)">date</text>
+<text style="font-size: 8px; font-family: sans-serif" transform="translate(268.9 200.8)">(n=4)</text>
+<use xlink:href="#mc351f76e85" x="343.5" y="177.3" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 8px; font-family: sans-serif" transform="translate(338.6 191.2)">kb</text>
+<text style="font-size: 8px; font-family: sans-serif" transform="translate(332 200.8)">(n=4)</text>
+<use xlink:href="#mc351f76e85" x="406.5" y="177.3" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 8px; font-family: sans-serif" transform="translate(399.9 191.2)">rag</text>
+<text style="font-size: 8px; font-family: sans-serif" transform="translate(392.4 200.8)">(n=25)</text>
+<defs>
+<path id="m1e9b111e0e" d="M 0 0 L -3.5 0" style="stroke: #000000; stroke-width: 0.8"/>
+</defs>
+<use xlink:href="#m1e9b111e0e" x="48" y="177.3" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: end" x="41" y="181.1">0.0</text>
+<use xlink:href="#m1e9b111e0e" x="48" y="148.5" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: end" x="41" y="152.3">0.2</text>
+<use xlink:href="#m1e9b111e0e" x="48" y="119.7" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: end" x="41" y="123.5">0.4</text>
+<use xlink:href="#m1e9b111e0e" x="48" y="90.9" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: end" x="41" y="94.7">0.6</text>
+<use xlink:href="#m1e9b111e0e" x="48" y="62.1" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: end" x="41" y="65.9">0.8</text>
+<use xlink:href="#m1e9b111e0e" x="48" y="33.4" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: end" x="41" y="37.2">1.0</text>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: middle" x="18.7" y="101.7" transform="rotate(-90 18.7 101.7)">eval pass rate</text>
+<path d="M 48 177.3 L 48 26.2" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+<path d="M 450 177.3 L 450 26.2" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+<path d="M 48 177.3 L 450 177.3" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+<path d="M 48 26.2 L 450 26.2" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+<text style="font-size: 12px; font-family: sans-serif; text-anchor: middle" x="249" y="20.2">Eval suite pass rate by expected route</text>
+<path d="M 173 220.8 L 189 220.8 L 189 215.2 L 173 215.2 z" style="fill: #126782"/>
+<text style="font-size: 8px; font-family: sans-serif; text-anchor: start" x="195.4" y="220.8">full assistant (overall 0.91)</text>
+<path d="M 173 232.8 L 189 232.8 L 189 227.2 L 173 227.2 z" style="fill: #e9c46a"/>
+<text style="font-size: 8px; font-family: sans-serif; text-anchor: start" x="195.4" y="232.8">RAG only, no tools (overall 0.64)</text>
+</svg>

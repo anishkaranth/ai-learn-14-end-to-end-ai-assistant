@@ -1,0 +1,32 @@
+{
+  "project": "ai-learn-14-end-to-end-ai-assistant",
+  "seed": 42,
+  "config": {
+    "top_k": 3,
+    "abstain_threshold": 0.12,
+    "today": "2026-01-15",
+    "max_answer_sentences": 2
+  },
+  "index": {
+    "format": "tfidf-v1",
+    "n_docs": 11,
+    "n_chunks": 22,
+    "vocab_size": 250,
+    "sentences_per_chunk": 2
+  },
+  "key_metrics": {
+    "n_cases": 44,
+    "pass_rate": 0.9091,
+    "route_accuracy": 0.9545,
+    "rag_answer_pass_rate": 0.84,
+    "retrieval_hit@1": 0.88,
+    "retrieval_mrr@5": 0.8933,
+    "paraphrase_hit@1": 0.4,
+    "block_precision": 1.0,
+    "block_recall": 1.0,
+    "schema_valid_rate": 1.0,
+    "latency_p95_ms": 0.102,
+    "no_tools_ablation_pass_rate": 0.6364
+  },
+  "runtime_sec": 0.047
+}
