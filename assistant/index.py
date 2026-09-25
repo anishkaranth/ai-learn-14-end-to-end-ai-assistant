@@ -19,7 +19,7 @@ def tokenize(text: str) -> List[str]:
     for w in _TOK.findall(text.lower()):
         if w in STOP:
             continue
-        if len(w) > 4 and w.endswith("s") and not w.endswith("ss"):
+        if len(w) > 4 and w.endswith("s") and not w.endswith(("ss", "us")):
             w = w[:-1]  # tiny stemmer: limits -> limit, invoices -> invoice
         out.append(w)
     return out
